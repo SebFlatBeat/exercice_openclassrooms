@@ -1,3 +1,3 @@
-Cette petite ligne de commande peut sortir un numero de loto à jouer :-D
+Cette petite ligne de commande peut sortir un numero de loto à jouer :-D (executez le sur Git)
 
 echo $(shuf -n 6 -i 1-49 | sort -n) 
